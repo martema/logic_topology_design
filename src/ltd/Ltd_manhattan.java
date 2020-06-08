@@ -13,7 +13,6 @@ import org.jgrapht.graph.DefaultWeightedEdge;
  * LTD greedy heuristic
  *
  * @author Cilia Martina
- * @since 2016
  */
 
 public final class Ltd_manhattan
